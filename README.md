@@ -4,8 +4,8 @@ Seja bem vindo ao meu repositório.<br/>
 
 <div align="center">
   <a href="https://github.com/WIllBarbosa1" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willbarbosa1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbarbosa1&theme=dark">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=willbarbosa1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willbarbosa1&theme=dark">
 </div>
 
 <div style="display: flex"><br>
