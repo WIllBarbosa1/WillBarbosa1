@@ -1,4 +1,6 @@
-## Bem vindo ao meu repositório! Eu sou Will, estudante de Sistemas de Informação na UPE!
+## Oi eu sou Will! 🖖🧑‍💻
+###Estudante de Sistemas de Informação na UPE!
+###Seja bem vindo ao meu repositório!.
 
 <div align="center">
   <a href="https://github.com/WIllBarbosa1" />
