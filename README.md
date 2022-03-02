@@ -18,6 +18,8 @@ Seja bem vindo ao meu repositório.<br/>
   <img align="center" alt="Will-React-Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
  
+ ##
+ 
 <div> 
   <a href="https://www.linkedin.com/in/will-barbosa-156448211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
